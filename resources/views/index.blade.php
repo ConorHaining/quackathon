@@ -66,6 +66,9 @@
 		<div class="row silver">
 			<a href="https://www.coopersoftware.co.uk/"><img src="coopersoftware.jpg" alt="Cooper Software"></a>
 		</div>
+		<div class="row silver">
+			<a href="https://www.wrld3d.com/"><img src="WRLD_Logo_white.png" alt="WRLD 3D"></a>
+		</div>
 	</div>
 
 	<div class="panel panel-4">
