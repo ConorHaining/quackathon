@@ -1,0 +1,159 @@
+html,body {
+  margin:0;
+  overflow-x: hidden;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.panel {
+  height:100%;
+  min-height:100%;
+  margin: 0;
+  padding: 50px;
+  font-family: 'Roboto Slab', serif;
+
+  box-shadow: inset 0px 5px 5px #363636;
+  background: red;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+.panel-1,
+.panel-3,
+.panel-5{
+	background-color: #0a51a1;
+	color: white;
+}
+
+.panel-2,
+.panel-4{
+	background-color: #f0a240;
+}
+
+.panel-1{
+	text-align: center;
+}
+
+.panel-1 img{
+	width: 60%;
+	height: auto;
+}
+.panel-1 h1{
+	font-size: 500%;
+	margin: 5px;
+}
+.panel-1 h2{
+	font-size: 2em;
+}
+.panel-1 a{
+	color: white;
+	font-size: 1.5em;
+}
+
+.panel-2 p{
+	font-size: 1.2em;
+	font-weight: 400;
+	padding: 30px;
+}
+
+.panel-4 iframe{
+	height: 90%;
+	width: 100%;
+	min-height: 500px;
+
+}
+.panel-5 a{
+	color: white;
+}
+
+.btn{
+	display: block;
+	background-color: #f0a240;
+	padding: 10px;
+	width: 100%;
+}
+.btn-large{
+	border: 5px solid #001E6E;
+	font-size: 2em;
+	border-radius: 10px;
+}
+
+.panel-5{
+	text-align: center;
+}
+.panel-5 form{
+	display: block;
+	background-color: #f0a240;
+	padding: 20px 30px;
+	font-size 1.2em;
+	width: 50%;
+	margin: 0 auto;
+	color: white;
+}
+
+@media (max-width: 1024px) { 
+	
+	.panel-5 form{
+		width: 100%;
+	}
+
+	.panel-5 .row label,
+	.panel-5 .row input,
+	.panel-5 .row select{
+		display: block;
+		padding: 5px 10px;
+		margin: 0 auto;
+	}
+
+}
+
+.panel-5 .row{
+	width: 100%:	
+	padding: 20px;
+	margin: 20px;
+}
+
+.panel-5 .row label,
+.panel-5 .row input,
+.panel-5 .row select{
+	display: block-inline;
+	padding: 5px 10px;
+}
+
+.banner {
+	padding: 20px;
+	background-color: #f46b41;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto Slab', serif;
+	list-item-style: none;
+}
+.banner strong{
+	font-size: 1.5em;
+}
+
+.panel-3{
+	text-align: center;
+}
+.panel-3 img{
+	max-height: 128px;
+	vertical-align: middle;
+}
+.panel-3 .gold img{
+	max-height: 300px;
+}
+.panel-3 .silver img{
+	max-height: 200px;
+}
+.panel-3 span{
+	width: 100%;
+	display: block;
+}

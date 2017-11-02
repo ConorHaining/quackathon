@@ -1,0 +1,1031 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"Co",
+				"Computing"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"reg",
+				"registration"
+			],
+			[
+				"vai",
+				"validator"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pane",
+				"panel"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"DOm",
+				"Dom"
+			],
+			[
+				"i",
+				"inc\t#include \"…\""
+			],
+			[
+				"bu",
+				"busStop"
+			],
+			[
+				"bus",
+				"busStops"
+			],
+			[
+				"csv",
+				"csvFile"
+			],
+			[
+				"conn",
+				"connectFrame"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"h",
+				"headers"
+			],
+			[
+				"ret",
+				"returnString"
+			],
+			[
+				"ver",
+				"versions"
+			],
+			[
+				"v",
+				"versions"
+			],
+			[
+				"defa",
+				"defaultHeaders"
+			],
+			[
+				"socket",
+				"socket_close"
+			],
+			[
+				"ST",
+				"STOMP_1_1"
+			],
+			[
+				"Stomp",
+				"stomp_version"
+			],
+			[
+				"S",
+				"STOMP_1_2"
+			],
+			[
+				"STOMP",
+				"STOMP_1_1"
+			],
+			[
+				"gethost",
+				"gethostbyname"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"connec",
+				"connect"
+			],
+			[
+				"uri",
+				"uriComponents"
+			],
+			[
+				"ur",
+				"uriComponents"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"pars",
+				"parse_url"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"socke",
+				"socket_connect"
+			],
+			[
+				"fra",
+				"frameSend"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"stream_get",
+				"stream_get_line"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"pass",
+				"passcode"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"is_re",
+				"is_resource"
+			],
+			[
+				"e",
+				"erroMessage"
+			],
+			[
+				"erro",
+				"errorNumber"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"VERSI",
+				"VERSION_1_2"
+			],
+			[
+				"head",
+				"headerJSON"
+			],
+			[
+				"hea",
+				"headerJSON"
+			],
+			[
+				"he",
+				"headerJSON"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"fi",
+				"firstLine"
+			],
+			[
+				"Sched",
+				"schedule"
+			],
+			[
+				"sch",
+				"schedule_headers"
+			],
+			[
+				"tiplo",
+				"tiploc_code"
+			],
+			[
+				"tipl",
+				"TiplocV1"
+			],
+			[
+				"T",
+				"TiplocV1"
+			],
+			[
+				"transac",
+				"transaction_type"
+			],
+			[
+				"trai",
+				"train_uid"
+			],
+			[
+				"locat",
+				"location"
+			],
+			[
+				"sche",
+				"schedule_segment"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"sc",
+				"schedule_segment"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"Schedu",
+				"ScheduleJob"
+			],
+			[
+				"line",
+				"lineJSON"
+			],
+			[
+				"Sche",
+				"ScheduleJob"
+			],
+			[
+				"l",
+				"line"
+			],
+			[
+				"Sch",
+				"ScheduleJob"
+			],
+			[
+				"j",
+				"JSONSCHEDFILEStream"
+			],
+			[
+				"curl_e",
+				"curl_exec"
+			],
+			[
+				"curl_set",
+				"curl_setopt_array"
+			],
+			[
+				"LO",
+				"localSCHEDULEStream"
+			],
+			[
+				"CURO",
+				"CURLOPT_FILE"
+			],
+			[
+				"CURL",
+				"CURLOPT_FOLLOWLOCATION"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"loca",
+				"localSCHEDULEStream"
+			],
+			[
+				"local",
+				"localSCHEDULEname"
+			],
+			[
+				"f",
+				"func\tFunction"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"s",
+				"statement"
+			],
+			[
+				"stanox",
+				"stanox"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"JS",
+				"JsonScheduleV1"
+			],
+			[
+				"li",
+				"lineJSON"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"trans",
+				"transaction_type"
+			],
+			[
+				"loc",
+				"location_type"
+			],
+			[
+				"Sc",
+				"schedule"
+			],
+			[
+				"raw",
+				"rawCallingPoints"
+			],
+			[
+				"pro",
+				"processor"
+			],
+			[
+				"jsod",
+				"json_decode"
+			],
+			[
+				"ra",
+				"rawCallingPoints"
+			],
+			[
+				"call",
+				"callingPoints"
+			],
+			[
+				"record",
+				"record_identity"
+			],
+			[
+				"publ",
+				"public_arrival"
+			],
+			[
+				"arr",
+				"arrival"
+			],
+			[
+				"cal",
+				"callingPoints"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"locati",
+				"locationRecord"
+			],
+			[
+				"lo",
+				"locationRecord"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tra",
+				"transaction_type"
+			],
+			[
+				"delete",
+				"deleted"
+			],
+			[
+				"timeta",
+				"timestamp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 8467,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/RegistrationController.php",
+			"settings":
+			{
+				"buffer_size": 1248,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/registration.php",
+			"settings":
+			{
+				"buffer_size": 258,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 784.0,
+		"last_filter": "close",
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"re",
+				"Project: Refresh Folders"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"emmet ex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"refr",
+				"Project: Refresh Folders"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"projec",
+				"Project: Refresh Folders"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"show",
+				"Snippet: Throw Exception"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"prety",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 974.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/conor/projects/quackathon",
+		"/home/conor/projects/quackathon/public",
+		"/home/conor/projects/quackathon/public/css",
+		"/home/conor/projects/quackathon/public/js",
+		"/home/conor/projects/quackathon/resources",
+		"/home/conor/projects/quackathon/resources/views",
+		"/home/conor/projects/quackathon/routes"
+	],
+	"file_history":
+	[
+		"/home/conor/projects/quackathon/public/css/style.css",
+		"/home/conor/projects/quackathon/routes/web.php",
+		"/home/conor/projects/quackathon/database/migrations/2017_09_19_092918_add_dietary.php",
+		"/home/conor/projects/quackathon/database/migrations/2017_09_17_130957_create_registration_table.php",
+		"/home/conor/projects/quackathon/app/registration.php",
+		"/home/conor/projects/quackathon/app/Http/Controllers/RegistrationController.php",
+		"/home/conor/projects/quackathon/resources/views/index.blade.php",
+		"/home/conor/projects/quackathon/.env",
+		"/home/conor/projects/quackathon/config/database.php",
+		"/home/conor/projects/NR-Schedule/.env",
+		"/home/conor/projects/quackathon/resources/views/welcome.blade.php",
+		"/home/conor/projects/quackathon/index.html",
+		"/home/conor/projects/quackathon/css/style.css",
+		"/home/conor/projects/dundeerealtimebus/Dundee Buses/app/Console/Commands/PollBusData.php",
+		"/home/conor/Dropbox/University/Year 3/AC32007/lab1/selfprinter.c",
+		"/home/conor/projects/dundeerealtimebus/Dundee Buses/app/Console/Kernel.php",
+		"/home/conor/projects/dundeerealtimebus/Dundee Buses/storage/app/DundeeStopsFull.csv",
+		"/home/conor/projects/journey/app/Stomp/Network/Connection.php",
+		"/home/conor/projects/journey/app/Stomp/Client.php",
+		"/home/conor/projects/journey/app/Console/Commands/StompStart.php",
+		"/home/conor/projects/journey/app/Stomp/Frame/FrameFactory.php",
+		"/home/conor/projects/journey/app/Stomp/Frame/Frame.php",
+		"/home/conor/projects/journey/app/Providers/STOMPClientProvider.php",
+		"/home/conor/projects/stomp/stomp.php",
+		"/home/conor/projects/journey/storage/logs/laravel.log",
+		"/home/conor/projects/journey/app/Stomp/Transport/Frame.php",
+		"/home/conor/projects/journey/.env",
+		"/home/conor/projects/journey/app/Console/Commands/DownloadSchedule.php",
+		"/home/conor/projects/journey/config/app.php",
+		"/home/conor/projects/journey/config/services.php",
+		"/home/conor/projects/journey/app/Console/Kernel.php",
+		"/home/conor/projects/journey/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php",
+		"/home/conor/projects/journey/storage/schedule/SCHEDULE-2017-08-03.json",
+		"/home/conor/projects/journey/database/migrations/2017_08_03_051600_create_schedule_headers_table.php",
+		"/home/conor/projects/journey/app/Jobs/TiplocJob.php",
+		"/home/conor/projects/journey/app/Jobs/AssociationJob.php",
+		"/home/conor/projects/journey/app/Jobs/ScheduleJob.php",
+		"/home/conor/projects/journey/database/migrations/2017_07_30_172815_create_assoications_table.php",
+		"/home/conor/projects/journey/database/migrations/2017_08_01_051355_create_tiploc_table.php",
+		"/home/conor/projects/journey/database/migrations/2017_07_29_171051_create_schedules_table.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/DownloadJob.php",
+		"/home/conor/projects/journey/config/queue.php",
+		"/home/conor/projects/journey/database/migrations/2017_07_29_225457_create_failed_jobs_table.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/Processors/ScheduleProcessor.php",
+		"/home/conor/projects/journey/config/database.php",
+		"/home/conor/projects/journey/.env.example",
+		"/home/conor/projects/journey/storage/schedule/SCHEDULE-2017-07-28.gz",
+		"/home/conor/projects/journey/config/filesystems.php",
+		"/home/conor/projects/journey/app/Console/Commands/downloadSchedule.php",
+		"/home/conor/projects/blog/routes/web.php",
+		"/home/conor/projects/blog/.env",
+		"/home/conor/projects/blog/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/home/conor/projects/journey/composer.json",
+		"/home/conor/projects/journey/config/broadcasting.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/Journey/JourneyBuilder.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/DownloadScheduleAllCommand.php",
+		"/home/conor/projects/go-rail/src/hello.go",
+		"/home/conor/projects/NR-Schedule/src/Journey/JourneyMaker.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/Processors/AssociationProcessor.php",
+		"/home/conor/projects/NR-Schedule/src/Journey/JourneyBuilder.php",
+		"/home/conor/projects/NR-Schedule/2017-05-31-SCHEDULE.json",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/Processors/TiplocProcessor.php",
+		"/home/conor/Downloads/SMARTExtract.json",
+		"/home/conor/Downloads/CIF_ALL_UPDATE_DAILY%2Ftoc-update-sun.json",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/Processors/ProcessorTrait.php",
+		"/home/conor/Downloads/CIF_ALL_FULL_DAILY%2Ftoc-full.json",
+		"/home/conor/projects/NR-Schedule/logs/ScheduleDownloadJob.log",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/Processors/CallingPointsProcessor.php",
+		"/home/conor/projects/NR-Schedule/2017-05-25-SCHEDULE.json",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/Processors/TimetableProcessor.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/TimetableProcessor.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/ScheduleProcessor.php",
+		"/home/conor/projects/NR-Schedule/src/NetworkRail/SCHEDULE/AssociationProcessor.php",
+		"/home/conor/projects/NR-Schedule/2017-05-23-SCHEDULE.json"
+	],
+	"find":
+	{
+		"height": 76.0
+	},
+	"find_in_files":
+	{
+		"height": 162.0,
+		"where_history":
+		[
+			"7.1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"edesix",
+			".panel-4",
+			"3",
+			"7.0",
+			"%;\n",
+			"true",
+			"tshirt",
+			"email",
+			"plain",
+			"lunch",
+			"email",
+			"surname",
+			"forename",
+			"Dundee",
+			"version",
+			"self",
+			" != ",
+			"!=",
+			" != ",
+			"!=",
+			"const",
+			"connection",
+			"json",
+			"scheme",
+			"dd",
+			"connection",
+			"==",
+			"!=",
+			"static",
+			"int",
+			"url",
+			"var",
+			"var_dump",
+			"nlco",
+			"Request",
+			"nullable",
+			"Carbon",
+			"payload",
+			"assoc_location_suffix",
+			"table",
+			";",
+			"\n            ",
+			"signalling_id;\n",
+			";",
+			"operating_characteristics",
+			"speed",
+			"train_service_code",
+			"CIF_train_category",
+			"schedule",
+			"schedulea",
+			"schedule",
+			"()",
+			"');\n",
+			"private",
+			"}\n",
+			"secret",
+			"jsonFileStream",
+			"JSONSCHEDFILEStream",
+			"gzipFileStream",
+			"{",
+			"     ",
+			"mode",
+			"remoteSCHEDULELocation",
+			"description",
+			"secret",
+			"homestead",
+			"localhost",
+			"tps_description",
+			"crs",
+			"tiploc_code",
+			"association",
+			"Association",
+			"association",
+			"\t\t\t$",
+			"train_uid",
+			"processor",
+			"ScheduleProcessor",
+			"lineJSON",
+			"->locatio",
+			"locationRecord",
+			"arrival",
+			"['",
+			"public_departure",
+			"departure",
+			"public_arrival",
+			"departure",
+			"AssociationProcessor",
+			"data",
+			"$this->nullable",
+			"$schedule",
+			"schedule",
+			"Schedule",
+			"schedule",
+			"data",
+			"schedule",
+			"data",
+			"schedule",
+			"timestamp",
+			"start_date",
+			"assoc_train_uid",
+			"main_train_uid",
+			"ENV"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7973,
+								7973
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/RegistrationController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/registration.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rweb",
+				"routes/web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "dunde",
+		"selected_items":
+		[
+			[
+				"dunde",
+				"~/projects/work/landing2/js/dundeebus.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 498.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
