@@ -5,6 +5,8 @@
 
 	<link rel="stylesheet" type="text/css" href="{{ URL::asset('css/style.css') }} ">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+	<!-- Responsiveness -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 	@if ($errors->any())
@@ -27,28 +29,32 @@
 	<div class="panel panel-1">
 		<img src="logo.png" alt="DUCS">
 		<h1>Quackathon</h1>
+
+		<!-- Quick and Messy Countdown Timer -->
+		<div id="qmct_main"></div>
+
 		<h2>Queen Mother Building, Dundee</h2>
 		<h2>November 11th - 12th 2017</h2>
-		<a class="btn btn-large btn-register" href="#Register">Register</a>	
+		<a class="btn btn-large btn-register" href="#Register">Register</a>
 	</div>
 
 	<div class="panel panel-2">
 		<h1>About</h1>
 		<p>
-			The Quackathon was first stated at Dundee University in 2016 and is hosted in the award winning Queen Mother Building. We are open to all students across the country to join us for our second quackathon! It is organized by students for students and is an all-inclusive event for every person. 
+			The Quackathon was first stated at Dundee University in 2016 and is hosted in the award winning Queen Mother Building. We are open to all students across the country to join us for our second quackathon! It is organized by students for students and is an all-inclusive event for every person.
 		</p>
 		<p>
 			We provide the power, wi-fi, pizza and stickers over the full <strong>24 hour event</strong> to keep you focused on the hack at hand which are all generously provided by our event sponsors who will be announced very soon.
 		</p>
 		<p>
-			All you will need to bring are yourself, a laptop & any cables you may need. You may want to wear something comfortable as it'll be a full 24 hour event and you might want fresh clothes for the presentations!
+			All you will need to bring are yourself, a laptop &amp; any cables you may need. You may want to wear something comfortable as it'll be a full 24 hour event and you might want fresh clothes for the presentations!
 		</p>
 		<p>
 			First hackathon? No problem! All are welcome regardless of ability, use this as an opportunity to learn something new or build on your existing knowledge to create something out of this world!
 		</p>
 		<p></p>
 	</div>
-	
+
 	<div class="panel panel-3">
 		<h1>Sponsors</h1>
 		<div class="row">
@@ -83,7 +89,7 @@
 
 	<div class="panel panel-5 " id="Register">
 		<h1>Register</h1>
-		
+
 		@if ( (\Carbon\Carbon::create('2017', '10', '16', '20', '00', '00', 'Europe/London')->lte(\Carbon\Carbon::now()) && count($model) <= 40) || \Carbon\Carbon::create('2017', '10', '18', '20', '00', '00', 'Europe/London')->lte(\Carbon\Carbon::now()) && count($model) <= 80)
 		<form action="/" method="POST">
 			{{ csrf_field() }}
@@ -143,7 +149,7 @@
 					<option value="West Lothian College">West Lothian College</option>
 				</select>
 			</div>
-			
+
 			<div class="row">
 				<label for="tshirt">T-Shirt Size</label>
 				<select name="tshirt">
@@ -183,7 +189,7 @@
 			<div class="row">
 				<label for="dietary">Any Dietary Requirements? </label>
 				<input type="text" name="dietary">
-			</div>	
+			</div>
 
 			<div class="row">
 				<input type="submit" class="btn btn-large required="true"" name="submit" value="Register!">
@@ -198,5 +204,7 @@
 			<h2>The first batch of tickets will be released on Monday 16th at 8PM. Come back then!</h2>
 		@endif
 	</div>
+
+	<script src="{{ URL::asset('css/style.css') }} "></script>
 </body>
 </html>

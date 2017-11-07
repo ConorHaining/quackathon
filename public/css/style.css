@@ -46,7 +46,7 @@ h1 {
 	height: auto;
 }
 .panel-1 h1{
-	font-size: 500%;
+	font-size: 5em;
 	margin: 5px;
 }
 .panel-1 h2{
@@ -57,10 +57,20 @@ h1 {
 	font-size: 1.5em;
 }
 
+@media (max-width: 1024px) {
+  .panel-1 h1 {
+    font-size: 2em;
+  }
+  .panel-1 h2 {
+    font-size: 1em;
+  }
+}
+
 .panel-2 p{
 	font-size: 1.2em;
 	font-weight: 400;
-	padding: 30px;
+  /* Too much padding looks pretty bad on mobile; 10 works pretty well */
+	padding: 10px;
 }
 
 .panel-4 iframe{
@@ -98,8 +108,8 @@ h1 {
 	color: white;
 }
 
-@media (max-width: 1024px) { 
-	
+@media (max-width: 1024px) {
+
 	.panel-5 form{
 		width: 100%;
 	}
@@ -115,7 +125,7 @@ h1 {
 }
 
 .panel-5 .row{
-	width: 100%:	
+	width: 100%:
 	padding: 20px;
 	margin: 20px;
 }
@@ -148,11 +158,16 @@ h1 {
 	vertical-align: middle;
 }
 .panel-3 .gold img{
+  width: 100%;
+  max-width: 300px;
 	max-height: 300px;
 }
 .panel-3 .silver img{
+  max-width: 100%;
 	max-height: 200px;
-	margin: 30px;
+  /* Use padding rather than margin as 100% width will otherwise cause image to
+  flow outside of intended area */
+	padding: 20px;
 }
 .panel-3 span{
 	width: 100%;
