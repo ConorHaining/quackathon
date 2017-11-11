@@ -5,6 +5,8 @@
 
 	<link rel="stylesheet" type="text/css" href="{{ URL::asset('css/style.css') }} ">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+	<!-- Responsiveness -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 	@if ($errors->any())
@@ -45,7 +47,7 @@
 			We provide the power, wi-fi, pizza and stickers over the full <strong>24 hour event</strong> to keep you focused on the hack at hand which are all generously provided by our event sponsors who will be announced very soon.
 		</p>
 		<p>
-			All you will need to bring are yourself, a laptop & any cables you may need. You may want to wear something comfortable as it'll be a full 24 hour event and you might want fresh clothes for the presentations!
+			All you will need to bring are yourself, a laptop &amp; any cables you may need. You may want to wear something comfortable as it'll be a full 24 hour event and you might want fresh clothes for the presentations!
 		</p>
 		<p>
 			First hackathon? No problem! All are welcome regardless of ability, use this as an opportunity to learn something new or build on your existing knowledge to create something out of this world!
