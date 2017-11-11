@@ -206,5 +206,6 @@
 	</div>
 
 	<script src="{{ URL::asset('css/style.css') }} "></script>
+	<script src="{{ URL::asset('js/countdown.js') }} "></script>
 </body>
 </html>
